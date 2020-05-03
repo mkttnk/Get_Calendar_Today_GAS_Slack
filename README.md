@@ -1,0 +1,2 @@
+# Get_Calendar_Today_GAS_Slack
+Slackのスラッシュコマンドにより、指定した人のGoogleカレンダーの今日の予定を返す
